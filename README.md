@@ -8,7 +8,7 @@ This version has a real backend — accounts, a database, and photo storage via 
 
 ## Live demo
 
-`[Add your deployed URL here once published — see Deployment below]`
+`(https://patakeja-silk.vercel.app/)`
 
 ---
 
